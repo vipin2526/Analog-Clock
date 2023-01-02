@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;  
+    
+}
+.over{
+    height: 100vh;
+    width: 100vw;
+    background-size: 500px;
+    background-image: url(brick.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vw;
+    width: 100vw;
+    max-width: 700px;
+    max-height: 700px;
+    position:absolute;
+}
+#o_border{
+   width: 85%;
+   height: 85%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-image: url(clock.jpg);
+   background-size: cover;
+}
+#i_border{
+    width: 93%;
+    height: 93%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.border{
+    border: 2px solid black;
+    border-radius: 100%;
+}
+#center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#name{
+    transform: translateY(max(-20vw,-150px));
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    position:absolute;
+    font-size: min(5vw,200%)
+}
+#hour{
+    height: 25%;
+    width: 2%;
+    background-color: black;
+    position: absolute;
+    transform:translateY(50%) rotate(90deg); 
+    transform-origin: top;
+}
+#minute{
+    height: 30%;
+    width: 1.3%;
+    background-color: black;
+    position: absolute;
+    transform:translateY(50%) rotate(0deg); 
+    transform-origin: top;
+}
+#second{
+    height: 40%;
+    width: 0.6%;
+    background-color: black;
+    position: absolute;
+    transform: translateY(25%) rotate(90deg); 
+    transform-origin: 50% 25%;
+}
+.logo{
+    width: 5%;
+    height:5%;
+    border-radius: 100%;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+}
+.logo2{
+    width: 1.5%;
+    height:1.5%;
+    border-radius: 100%;
+    background-color: rgb(163, 163, 163);
+    position: absolute;
+}
