@@ -4,11 +4,11 @@
 
 This is a simple analog clock created using HTML, CSS, and JavaScript. The clock is responsive and can be viewed on desktop and mobile devices. 
 
-![Analog Clock Screenshot](https://github.com/xmartcoder/Analog-Clock/blob/main/clock-sr.png)
+![Analog Clock Screenshot](https://github.com/vipin2526/Analog-Clock/blob/main/clock-sr.png)
 
 ### How to Use
 
-1. Open the clock by clicking on the [Analog-Clock](https://xmartcoder.github.io/Analog-Clock/).
+1. Open the clock by clicking on the [Analog-Clock](https://vipin2526.github.io/Analog-Clock/).
 2. The clock will automatically display the current time.
 3. You can clone this repo and use this on your personal projects.
 
@@ -34,4 +34,4 @@ This is a simple analog clock created using HTML, CSS, and JavaScript. The clock
 
 ### Credits
 
-This project was created by [Vipin Kushwaha](https://github.com/xmartcoder). Feel free to use and modify the clock to suit your needs.
+This project was created by [Vipin Kushwaha](https://github.com/vipin2526). Feel free to use and modify the clock to suit your needs.
