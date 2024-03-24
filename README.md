@@ -1,6 +1,6 @@
 # Analog-Clock
 
-### https://xmartcoder.github.io/Analog-Clock/
+### https://vipin2526.github.io/Analog-Clock/
 
 This is a simple analog clock created using HTML, CSS, and JavaScript. The clock is responsive and can be viewed on desktop and mobile devices. 
 
